@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutFragment</string>
+    <string name="layout1">Layout 1</string>
+    <string name="layout2">Layout 2</string>
+    <string name="layout3">Layout 3</string>
+    <string name="layout4">Layout 4</string>
+</resources>
